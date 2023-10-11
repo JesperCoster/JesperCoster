@@ -5,22 +5,22 @@
 ## I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Stockholm-Sweden :sweden
 
 ## Some of my courses
-# Math
+### Math
 - Discrete mathematics ✅
 - Mathematical Statistics ✅
 
 
-# Programming 
+### Programming 
 - Computer Programming, Basic Course ✅
 - Object Oriented Programming ✅
 - Algorithms and Data Structures ✅
 - Microcomputer technology (RISC-V, assembly & C) ✅
 
-# Prodject corses
+### Prodject corses
 - Computer Engineering and Internet Technology, Project Course(SDL in C) ✅
 - Software Development, Project Course (Three layers and Agil development) ✅
 
-# Other
+### Other
 - Information technology and engineering methodology ✅
 - Digital technology ✅
 - Operating system ✅
