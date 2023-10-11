@@ -2,7 +2,7 @@
 
 # Welcome to the profile of Jesper Cöster Sandberg👋
 
-## I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Stockholm-Sweden :sweden
+### I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Stockholm-Sweden :sweden
 
 ## Some of my courses
 ### Math
