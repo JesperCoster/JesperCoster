@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+#Welcome to the profile of Jesper Cöster Sandberg👋
+
+##I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Stockholm-Sweden :sweden
+
+
 <!--
 **JesperCoster/JesperCoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
