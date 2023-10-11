@@ -29,7 +29,7 @@
  ##  📫  Contact 📫
  -  📫 Email: jespercosters@gmail.com
  -  📷 Instagram: jesper_coster
- -  🗄️ LinkedIn: https://www.linkedin.com/in/jesper-c%C3%B6ster-sandberg-96771b253/
+- 🗄️ LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jesper-c%C3%B6ster-sandberg-96771b253/)
 <!--
 **JesperCoster/JesperCoster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
