@@ -2,7 +2,7 @@
 
 # Welcome to the profile of Jesper Cöster Sandberg👋
 
-### I am currently studying computer technology in my 2:nd year at the Royal institute of technology in Stockholm-Sweden :sweden
+### I am currently studying Computer Engineering/Computer Science in my 3:rd year at the Royal institute of technology in Stockholm-Sweden :sweden
 
 ## Some of my courses
 ### Math
@@ -16,7 +16,7 @@
 - Algorithms and Data Structures ✅
 - Microcomputer technology (RISC-V, assembly & C) ✅
 
-### Prodject corses
+### Project corses
 - Computer Engineering and Internet Technology, Project Course(SDL in C) ✅
 - Software Development, Project Course (Three layers and Agil development) ✅
 
